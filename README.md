@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**Ame314/Ame314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hi there, I’m Ame 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **estudiante de Sistemas**, exploradora de bugs y constructora de proyectos que mezclan **tecnología, creatividad y curiosidad**.  
+
+---
+
+## 🚀 About Me 
+- 🌱 En constante aprendizaje: **Docker, MongoDB/MySQL, seguridad en la nube y blockchain**.  
+- 🎮 Diseñando juegos en **Godot** y **Unity** con un toque de ciencia.  
+- 💡 Me apasiona enseñar y aprender de todo: desde **filosofía** hasta **física cuántica**.  
+
+---
+
+## 🛠️ Tech Stack
+**Lenguajes:**  
+☕ Java · 🐍 Python · ⚡ JavaScript · C/C++  
+
+**Desarrollo Web:**  
+🌐 React · Node.js (Express) · REST APIs  
+
+**Bases de Datos:**  
+🗄️ MySQL · MongoDB  
+ 
+
+**Herramientas:**  
+🐧 Linux (Manjaro 💚) · Docker · Git & GitHub  
+
+---
+
+## 🌟 Interests
+- 🤖 Inteligencia Artificial & Blockchain  
+- 🎨 Videojuegos indie y diseño interactivo  
+- 📚 Ciencia, historia y filosofía  
+
+---
+
+## 📫 Connect with me
+- 🐙 GitHub: [Ame314](https://github.com/Ame314)  
+
+---
